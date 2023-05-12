@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.Data {
+    color: rgb(21, 21, 186);
+}
+.Error {
+    color: red;
+}
+.Status {
+    color: green;
+}
+ul {
+    list-style: none;
+    color: rgb(10, 41, 99);
+    font-size: 20px;
+    margin: 50px 80px;
+}
+.container {
+    padding: 10px;
+    border: 1px solid black;
+}
